@@ -1,6 +1,6 @@
 # 🎓 Sistema EVENTO - Desafio Acadêmico com Spring Boot
 
-Este é um projeto desenvolvido como parte do curso **Java Spring Boot - DevSuperior**, ministrado por [Nélio Alves](https://devsuperior.com/).  
+Este é um projeto desenvolvido como parte do curso **Java Spring Boot - DevSuperior**, ministrado por [Nélio Alves](https://devsuperior.com.br/).  
 O sistema foi projetado para gerenciar **participantes**, **atividades**, **categorias** e **blocos de horário** de um evento acadêmico, como cursos, palestras e oficinas.
 
 ---
